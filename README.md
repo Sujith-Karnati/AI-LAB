@@ -5,7 +5,7 @@ The repository contains the list of awesome✨ &amp; Python Exercises!
 <h1 style="align=center">AI-LAB</h1>
 
 <div align="center">
-<a href="https://github.com/topics/Python"><img alt="AI" src="https://img.shields.io/badge/JAVA%20-%23E34F26.svg?&style=for-the-badge"/></a>
+<a href="https://github.com/topics/Python"><img alt="AI" src="https://img.shields.io/badge/AI%20-%23E34F26.svg?&style=for-the-badge"/></a>
 <br>
 <br>
 <a href="https://github.com/Sujith-Karnati/AI-LAB"><img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103"></a>
